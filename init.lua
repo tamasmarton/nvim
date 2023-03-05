@@ -1,0 +1,5 @@
+require 'tamasmarton.options'
+require 'tamasmarton.keymaps'
+require 'tamasmarton.plugins'
+require 'tamasmarton.colorscheme'
+require 'tamasmarton.cmp'
